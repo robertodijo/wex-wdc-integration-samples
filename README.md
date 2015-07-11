@@ -65,7 +65,7 @@ The following tools and plug-ins can make testing and deployments easier.
 
 
 ## Ruby Sinatra Web-Based Applications
-Some examples like the **Personality Insights Service** and the **Concept Expansion Service** are a Ruby Sinatra-based Bluemix application. The following steps get you setup and running for development of these applications. 
+Some examples like the [**Personality Insights Service**](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html) and the **Concept Expansion Service** are a Ruby Sinatra-based Bluemix application. The following steps get you setup and running for development of these applications. 
 
 ### Required development tools
 - Ruby is required to compile the code. Download and install [Ruby 1.9.3](http://rubyinstaller.org/downloads/)
